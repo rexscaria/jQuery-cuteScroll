@@ -1,0 +1,43 @@
+{
+    "name": "cuteScroll",
+    "version": "0.0.1",
+    "title": "jQuery.cuteScroll()",
+    "author": {
+        "name": "Arun Scaria",
+        "url": "http://facebook.com/scaria1/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        },
+        {
+            "type": "GPL",
+            "url": "http://www.opensource.org/licenses/gpl-license.php"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">1"
+    },
+    "description": "cuteScroll is a small jQuery plugin that transforms any div into a scrollable area with a cute and eye candy scrollbar. cuteScroll doesn't occupy any visual space as it only appears on a user initiated mouse-over.",
+    "keywords": [
+        "scrollbar",
+        "scroll",
+        "cutescroll",
+        "scrollable"
+    ],
+    "homepage": "http://scari.me/jQuery-cuteScroll-NOT UP YET",
+    "maintainers": [
+        {
+            "name": "Arun Scaria",
+            "url": "https://github.com/arunscaria91"
+        }
+    ],
+    "files": [
+        "cuteScroll.min.js",
+		"cuteScroll.js",
+		"index.htm",
+		"README.md",
+		"package.json"
+    ]
+}
